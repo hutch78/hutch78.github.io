@@ -1,0 +1,24 @@
+{
+  "name": "hutch78.github.io",
+  "version": "1.0.0",
+  "description": "<link rel=\"stylesheet\" href=\"style.css\">",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hutch78/hutch78.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hutch78/hutch78.github.io/issues"
+  },
+  "homepage": "https://github.com/hutch78/hutch78.github.io#readme"
+}
